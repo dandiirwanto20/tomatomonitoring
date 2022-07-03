@@ -1,7 +1,6 @@
 {
-    "name":"PlantCare",
-    "short_name":"PLC",
-    "id":"index.html",
+    "name":"Tomato Plant Smart Monitoring",
+    "short_name":"PlantCare",
     "start_url":"index.html",
     "display":"standalone",
     "background_color":"#5900b3",
